@@ -1,0 +1,13 @@
+F:\Sumanda\Kuliah\PKL\skripsi mnda\Program VB Manda\Program Apotik\Program Apotik\obj\x86\Debug\Program_Apotik.Resources.resources
+F:\Sumanda\Kuliah\PKL\skripsi mnda\Program VB Manda\Program Apotik\Program Apotik\obj\x86\Debug\Program Apotik.vbproj.GenerateResource.Cache
+F:\Sumanda\Kuliah\PKL\skripsi mnda\Program VB Manda\Program Apotik\Program Apotik\bin\Debug\Program Apotik.exe
+F:\Sumanda\Kuliah\PKL\skripsi mnda\Program VB Manda\Program Apotik\Program Apotik\bin\Debug\Program Apotik.pdb
+F:\Sumanda\Kuliah\PKL\skripsi mnda\Program VB Manda\Program Apotik\Program Apotik\bin\Debug\Program Apotik.xml
+F:\Sumanda\Kuliah\PKL\skripsi mnda\Program VB Manda\Program Apotik\Program Apotik\obj\x86\Debug\Program Apotik.exe
+F:\Sumanda\Kuliah\PKL\skripsi mnda\Program VB Manda\Program Apotik\Program Apotik\obj\x86\Debug\Program Apotik.xml
+F:\Sumanda\Kuliah\PKL\skripsi mnda\Program VB Manda\Program Apotik\Program Apotik\obj\x86\Debug\Program Apotik.pdb
+F:\Sumanda\Kuliah\PKL\skripsi mnda\Program VB Manda\Program Apotik\Program Apotik\obj\x86\Debug\Program_Apotik.FormLogin.resources
+F:\Sumanda\Kuliah\PKL\skripsi mnda\Program VB Manda\Program Apotik\Program Apotik\obj\x86\Debug\Program_Apotik.FormMenu.resources
+F:\Sumanda\Kuliah\PKL\skripsi mnda\Program VB Manda\Program Apotik\Program Apotik\obj\x86\Debug\Program_Apotik.FormDataObat.resources
+F:\Sumanda\Kuliah\PKL\skripsi mnda\Program VB Manda\Program Apotik\Program Apotik\obj\x86\Debug\Program_Apotik.FormInformasiObat.resources
+F:\Sumanda\Kuliah\PKL\skripsi mnda\Program VB Manda\Program Apotik\Program Apotik\obj\x86\Debug\Program_Apotik.FormPenjualan.resources
